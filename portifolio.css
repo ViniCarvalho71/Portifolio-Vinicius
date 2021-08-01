@@ -10,3 +10,9 @@
     width: 3rem;
     text-decoration: none;
 }
+a:hover{
+    text-decoration: none;
+}
+.perso_modal{
+    border-radius: 1rem;
+}
