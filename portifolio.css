@@ -1,6 +1,27 @@
+.bg-sombra{
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.438);
+  }
 .bg-portifolio{
     background-color: rgb(51, 51, 51);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.438);
+    color:white;
+
+}
+.bg-light2{
+  background-color: #c8d6e5;
+  color:black;
+}
+.bg-dark2{
+  background-color: #576574;
+  color:white;
+}
+.bg-dark{
+  background-color: #222f3e;
+  color:white;
+}
+.bg-light{
+  background-color: black5;
+  color:black;
 }
 .mr-none{
     margin-right: 0;
