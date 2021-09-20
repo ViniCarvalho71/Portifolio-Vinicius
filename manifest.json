@@ -1,10 +1,10 @@
 {
-  "name": "Portifolio",
-  "short_name": "Portifolio",
+  "name": "Portifolio-Vinicius",
+  "short_name": "Portifolio-Vini",
   "start_url": ".",
   "display": "standalone",
   "background_color": "black",
-  "description": "App Portifolio",
+  "description": "App Portifolio-Vinicius",
   "icons": [{
     "src": "images/eclipse48.png",
     "sizes": "48x48",
