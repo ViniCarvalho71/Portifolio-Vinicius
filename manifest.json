@@ -1,10 +1,10 @@
 {
-  "name": "PWAAPP",
-  "short_name": "PWAAPP",
+  "name": "Portifolio",
+  "short_name": "Port",
   "start_url": ".",
   "display": "standalone",
   "background_color": "black",
-  "description": "App PWA",
+  "description": "App Portifolio",
   "icons": [{
     "src": "images/eclipse48.png",
     "sizes": "48x48",
